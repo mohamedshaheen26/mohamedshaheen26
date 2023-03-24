@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @mohamedshaheen26
+
+- 👋 Hi, I’m Mohamed Shaheen
 - 👀 I’m interested in Front End
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently looking for a job as a Junior Front end developer
 - 📫 How to reach me +201144201011
 
 <!---
