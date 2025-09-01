@@ -6,7 +6,8 @@
 ### 🚀 About Me
 - 🌱 Currently learning & building with **React.js**  
 - 💻 Passionate about creating **modern, responsive, and user-friendly web apps**  
-- 🎯 Looking for opportunities as a **React Developer Intern**  
+- 🎯 Looking for opportunities as a **React Developer**
+- 🟣 Also worked with **Blazor (.NET)** to build interactive web applications   
 - 📫 Reach me: **+201144201011**  
 
 ---
